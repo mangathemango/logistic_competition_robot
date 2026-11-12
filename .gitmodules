@@ -1,0 +1,18 @@
+[submodule "city_round_2026/robot_maixcam"]
+	path = city_round_2026/robot_maixcam
+	url = https://github.com/mangathemango/robot_maixcam.git
+[submodule "city_round_2026/robot_sbc"]
+	path = city_round_2026/robot_sbc
+	url = https://github.com/mangathemango/robot_sbc.git
+[submodule "city_round_2026/robot_stm32"]
+	path = city_round_2026/robot_stm32
+	url = https://github.com/mangathemango/robot_stm32.git
+[submodule "school_round_2026/clanker_esp32"]
+	path = school_round_2026/clanker_esp32
+	url = https://github.com/Inkt13/FuckingBitch
+[submodule "school_round_2026/clanker_rpi"]
+	path = school_round_2026/clanker_rpi
+	url = https://github.com/mangathemango/clanker-rpi.git
+[submodule "school_round_2026/clanker_stm32"]
+	path = school_round_2026/clanker_stm32
+	url = https://github.com/Modifyyy0/clanker_controller

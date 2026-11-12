@@ -53,24 +53,22 @@ display/stepper control.
 
 ### Cloning the code
 
-The component directories have independent Git histories. In this checkout,
-they are **not registered as submodules**: there is no parent `.gitmodules`
-file. If the parent repository is configured to track them as submodules, clone
-it with:
+The component directories have independent Git histories and are registered as
+Git submodules. Clone the project and its components with:
 
 ```sh
 git clone --recurse-submodules <parent-repository-url>
 ```
 
-For an existing clone, initialize its registered submodules with:
+For an existing clone, initialize the components and check out the commits
+recorded by the parent repository with:
 
 ```sh
 git submodule update --init --recursive
 ```
 
-These commands only fetch components that the parent repository has registered
-as submodules. Otherwise, clone each component repository separately into its
-matching directory.
+The parent repository pins each component to a specific commit, so this also
+syncs existing submodules to the versions used by the project.
 
 Build the city-round SBC program with Rust (edition 2024):
 
