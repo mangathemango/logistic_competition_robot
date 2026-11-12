@@ -19,11 +19,10 @@ Competition.
 
 ### City round robot
 
-<a href="https://www.youtube.com/watch?v=00KiWx24jFc">
-  <img src="https://img.youtube.com/vi/00KiWx24jFc/hqdefault.jpg" alt="Watch the city round robot video" width="400">
-</a>
+[Testing video with debugging TUI](https://youtu.be/00KiWx24jFc) 
 
-<img src="docs/city_round.png" alt="City round robot" width="400">
+<img src="https://img.youtube.com/vi/00KiWx24jFc/hqdefault.jpg" alt="Watch the city round robot video" width="500">
+
 
 ## Project layout
 
