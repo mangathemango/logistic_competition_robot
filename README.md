@@ -12,12 +12,18 @@ the 2026 Beijing Universities Engineering Practice & Innovation Ability
 Competition.
 
 ## Robot photos + footages
+
 ### School round robot
-![school round robot](docs/school_round.jpg)
+
+<img src="docs/school_round.jpg" alt="School round robot" width="400">
 
 ### City round robot
-![video](https://youtu.be/00KiWx24jFc)
-![city round robot](docs/city_round.png)
+
+<a href="https://www.youtube.com/watch?v=00KiWx24jFc">
+  <img src="https://img.youtube.com/vi/00KiWx24jFc/hqdefault.jpg" alt="Watch the city round robot video" width="400">
+</a>
+
+<img src="docs/city_round.png" alt="City round robot" width="400">
 
 ## Project layout
 
